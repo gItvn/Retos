@@ -1,7 +1,7 @@
-### Unzip 
+Unzip 
 Retos/Reto1/challengeClues.zip 
 
-### Run to see the solution:
+Run to see the solution:
 Retos/Reto1/src/Reto1.java 
 
 If it doesnt work take care of the path into code.
